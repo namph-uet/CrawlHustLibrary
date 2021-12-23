@@ -1,0 +1,34 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(´¥şÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(ÂûŠÁ
+g
+java:S3008"QRename this field "DOMAIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹‚Ÿ 
+p
+java:S3008"URename this field "SEARCH_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å˜¾ñüÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(Ë•öÀûÿÿÿÿ
+Q	java:S125I"<This block of commented-out lines of code should be removed.(Ôêõì
+T
+java:S1874Y"?Remove this use of "validateTLSCertificates"; it is deprecated.(÷Á .
+S	java:S106b"9Replace this use of System.out or System.err by a logger.(“÷Äöıÿÿÿÿ
+T
+java:S1874o"?Remove this use of "validateTLSCertificates"; it is deprecated.(÷Á .
+N	java:S106z"9Replace this use of System.out or System.err by a logger.(Àã”í
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(¾§—Œıÿÿÿÿ
+j
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ÎŸ™¢
+i
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(˜«ªg
+s	java:S135*"YReduce the total number of break and continue statements in this loop to use at most one.(ËØáùûÿÿÿÿ
+h
+java:S1104"RMake DOMAIN a static final constant or non-public and provide accessors if needed.(¹‚Ÿ 
+q
+java:S1104"VMake SEARCH_URL a static final constant or non-public and provide accessors if needed.(Å˜¾ñüÿÿÿÿ
+B
+java:S1444",Make this "public static DOMAIN" field final(¹‚Ÿ 
+K
+java:S1444"0Make this "public static SEARCH_URL" field final(Å˜¾ñüÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
